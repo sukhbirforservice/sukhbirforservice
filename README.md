@@ -10,8 +10,9 @@ Here is some info to get you riled up:
 - 👯 I’m looking to collaborate on AI and LLM related Web Fullstack Projects.
 - 🤔 I’m looking for help with design
 - 💬 Ask me about Gaming, Programming, Chess, Physics and Sarcasm.
-- 📫 How to reach me: sukhbirforservice@outlook.com or sukhbirforservice@gmail.com
-- 😄 Pronouns: He/ Him
+- 📫 How to reach me: sukhbirforservice@outlook.com || sukhbirforservice@gmail.com
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can center a Div, hahaha.
+
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sukhbirforservice)](https://git.io/streak-stats)
