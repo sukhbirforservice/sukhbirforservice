@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hello there 👋  Sukhbir here!
 
-<!--
-**sukhbirforservice/sukhbirforservice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**sukhbirforservice/sukhbirforservice** is a ✨ _special_ ✨ repository because  _____________ <!-- its `README.md` (this file) appears --> on your GitHub profile.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here is some info to get you riled up:
+
+- 🔭 I’m currently working on VanillaJS.
+- 🌱 I’m currently learning C, Java and Javascript.
+- 👯 I’m looking to collaborate on AI and LLM related Web Fullstack Projects.
+- 🤔 I’m looking for help with design
+- 💬 Ask me about Gaming, Programming, Chess, Physics and Sarcasm.
+- 📫 How to reach me: sukhbirforservice@outlook.com or sukhbirforservice@gmail.com
+- 😄 Pronouns: He/ Him
+- ⚡ Fun fact: I can center a Div, hahaha.
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sukhbirforservice)](https://git.io/streak-stats)
