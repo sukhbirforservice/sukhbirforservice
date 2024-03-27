@@ -15,4 +15,4 @@ Here is some info to get you riled up:
 - ⚡ Fun fact: I can center a Div, hahaha.
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sukhbirforservice)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sukhbirforservice&theme=youtube-dark&border_radius=5.5&locale=hi&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
